@@ -8,6 +8,7 @@ function App() {
       <Logo />
       <ImageLinkForm />
       <FaceRecognition />
+      <test></test>
     </div>
   );
 }
